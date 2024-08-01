@@ -6,6 +6,6 @@
         <title>Welcome!!</title>
     </head>
     <body>
-        <h1>Welcome ${usuario} &#128526; &#128526; &#128526; !!</h1>
+        <h1>Welcome ${usuario} ${emoji} !!</h1>
     </body>
 </html>
